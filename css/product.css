@@ -39,30 +39,22 @@ body{
 
 .card-1{
     width: 40%;
-    height: 500px;
-    padding: 100px;
-    align-content: center;
-    /* display:inline-block;
-    width:40%;
-    height:50%;
-    padding-top:70px; */
+    height: 510px;
+    padding: 100px 0;
 }
 
 .card-2{
     background-color: white;
-    width: 40%;
+    width: 25%;
     height: 500px;
-    margin-right: 70%;
-    /* display: flex;
-    width:40%;
-    height:50%;
-    background-color: white;
-    color:#B2B2B2;
-    padding:30px; */
+    position:absolute;
+    top:110px;
+    left:595px;
+    padding:5px;
 }
 
 h1{
-    font-size: 30px;
+    font-size: 40px;
     color:#1A4D2E;
     display: inline-block;
 }
@@ -78,14 +70,12 @@ img{
 }
 
 .main-product{
-    /*width:60%;*/
+    width:60%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 0;
 }
 
-.product-card{
-    justify-content: center;
-}
 
 p{
     line-height: 2;
